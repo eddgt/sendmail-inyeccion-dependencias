@@ -94,3 +94,4 @@ build.xml
 
 #package-lock configuration file
 package-lock.json
+node_modules
